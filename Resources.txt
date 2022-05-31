@@ -1,0 +1,4 @@
+Find the detailed explanation of dataset here: https://www.kaggle.com/datasets/crawford/emnist
+
+View the dataset here: https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=emnist
+
